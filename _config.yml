@@ -25,7 +25,7 @@ exclude:
   - LICENSE.md
   - README.md
   - scripts/
-  - not-pure-poole.gemspec
+  - Eternity-Sky.gemspec
 
 # Optimize Jekyl SEO Tag
 twitter:
