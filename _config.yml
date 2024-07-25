@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
+title: Eternity-Sky
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+url: https://Eternity-Sky.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -35,8 +35,7 @@ logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/Eternity-Sky
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: Eternity-Sky
   url: https://github.com/vszhub/
   email: vszhub@gmail.com
