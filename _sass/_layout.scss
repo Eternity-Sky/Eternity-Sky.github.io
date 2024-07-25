@@ -1,0 +1,77 @@
+// Layout
+//
+// Styles for managing the structural hierarchy of the site.
+
+.container {
+  padding: 0;
+  margin: 0;
+}
+
+.home-header {
+  margin-top: -1em;
+  margin-bottom: var(--spacer-3);
+}
+
+.content {
+  padding-top: var(--spacer-2);
+  padding-left: var(--spacer-2);
+  padding-right: var(--spacer-2);
+  margin-left:  auto;
+  margin-right: auto;
+  min-height: 100vh;
+}
+
+.sidebar-left {
+  display: flex;
+  padding: var(--spacer);
+  background: center / cover;
+  height: 100vh;
+}
+
+footer {
+  margin-top: var(--spacer-3);
+  margin-bottom: var(--spacer-3);
+}
+
+@media (min-width: $md-width) {
+  .content {
+    padding-top: var(--spacer-3);
+    padding-left: var(--spacer-3);
+    padding-right: var(--spacer-3);
+    margin-left: 25%;
+  }
+
+  .sidebar-left {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+  }
+
+  .home-header {
+    margin-top: -2em;
+  }
+}
+
+@media (min-width: $lg-width) {
+  .sidebar-right {
+    display: block;
+  }
+}
+
+@media (max-width: $lg-width) {
+  .sidebar-right {
+    display: none;
+  }
+}
+
+@media (max-width: $md-width) {
+  .content {
+    width: 100%;
+  }
+}
+
+@media (min-width: $md-width) and (max-width: $lg-width) {
+  .content {
+    width: 75%;
+  }
+}

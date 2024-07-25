@@ -1,0 +1,33 @@
+// Alignment
+//
+// Some pre-defined selectors for handling the image alignment.
+
+.align-right {
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  float: right;
+}
+
+.align-left {
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  float: left;
+}
+
+.align-center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+figcaption.align-right {
+  text-align: right;
+}
+
+figcaption.align-left {
+  text-align: left;
+}
+
+figcaption.align-center {
+  text-align: center;
+}

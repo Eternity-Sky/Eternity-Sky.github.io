@@ -1,0 +1,24 @@
+{%- if site.data.archive -%}
+  {%- for item in site.data.archive -%}
+    {%- if item.type == "tags" -%}
+      {% assign tags_archive_page = item.url %}
+      {% break %}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+<div class="post-tags-section">
+  <i class="post-tags-icon fas fa-tags"></i>
+  <ul class="post-tags">
+    {%- for tag in page.tags -%}
+      <li>
+        {% assign slugified_tag = tag | slugify %}
+        {%- if tags_archive_page -%}
+          <a class="post-tag" href="{{ tags_archive_page | relative_url }}#{{ slugified_tag }}">{{ slugified_tag }}</a>
+        {%- else -%}
+          <span class="post-tag">{{ slugified_tag }}</span>
+        {%- endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
+</div>

@@ -1,0 +1,48 @@
+// Archive
+//
+// Styles for archive pages.
+
+.taxonomies-wrapper {
+  margin-top: var(--spacer-2);
+  margin-bottom: var(--spacer-2);
+}
+
+.taxonomies {
+  list-style: none;
+  display: grid;
+  grid-column-gap: 2em;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+
+  .taxonomy {
+    display: flex;
+    padding: 0.25em 0;
+    justify-content: space-between;
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid;
+    margin-bottom: var(--spacer);
+  }
+}
+
+.post-list-by-taxonomy {
+  time {
+    font-family: var(--code-font);
+  }
+}
+
+.back-to-top {
+  display: block;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  text-align: right;
+  text-decoration: none;
+}
+
+@media (max-width: $sm-width) {
+  .taxonomies {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

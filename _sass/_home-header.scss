@@ -1,0 +1,29 @@
+// Home Header
+//
+// Styles for the home header.
+
+.home-header-bar {
+  width: 100%;
+  height: 100%;
+
+  -webkit-box-shadow: 0 1em 1em -.9em var(--border-color);
+     -moz-box-shadow: 0 1em 1em -.9em var(--border-color);
+          box-shadow: 0 1em 1em -.9em var(--border-color);
+}
+
+.home-header-menu {
+  a {
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
+
+    &:hover,
+    &:focus {
+      color: inherit;
+      background-color: inherit;
+      border-bottom-color: var(--link-color);
+    }
+  }
+
+  .current-item {
+    border-bottom-color: var(--link-color);
+  }
+}
