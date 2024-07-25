@@ -29,11 +29,11 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Eternity-Sky
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Eternity-Sky
   links:
     - https://github.com/Eternity-Sky
 google_site_verification: xxxxx
@@ -55,4 +55,4 @@ sass:
 author:
   name: Eternity-Sky
   url: https://github.com/Eternity-Sky/
-  email: vszhub@gmail.com
+  email: tengyumo666@hotmail.com
