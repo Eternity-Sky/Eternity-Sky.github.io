@@ -56,3 +56,11 @@ author:
   name: Eternity-Sky
   url: https://github.com/Eternity-Sky/
   email: tengyumo666@hotmail.com
+
+gitalk:
+  clientID: 'Ov23liAH1r1yD3tBz8CB'
+  clientSecret: '8fcc55d81d779b1249765016e17c273ac04515bb'
+  repo: 'blog-comments'
+  owner: 'Eternity-Sky'
+  admin: ['Eternity-Sky']
+  distractionFreeMode: false
