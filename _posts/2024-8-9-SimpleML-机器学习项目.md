@@ -8,7 +8,7 @@ toc:  true
 ---
 # 推荐开源机器学习项目：SimpleML
 
-在这个快速发展的科技时代，机器学习已成为许多应用程序的核心部分。如果你对机器学习感兴趣，或者正在寻找一个简单易用的 C++ 机器学习库，那么我强烈推荐你查看我的开源项目 [SimpleML](https://github.com/YourUsername/SimpleML)。
+在这个快速发展的科技时代，机器学习已成为许多应用程序的核心部分。如果你对机器学习感兴趣，或者正在寻找一个简单易用的 C++ 机器学习库，那么我强烈推荐你查看我的开源项目 [SimpleML](https://github.com/Eternity-Sky/SimpleML)。
 
 ## 项目概述
 
