@@ -64,3 +64,4 @@ gitalk:
   owner: 'Eternity-Sky'
   admin: ['Eternity-Sky']
   distractionFreeMode: false
+  language: 'zh-CN'
