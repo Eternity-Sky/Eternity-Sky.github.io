@@ -58,7 +58,6 @@ author:
   email: tengyumo666@hotmail.com
 
 gitalk:
-  language: 'zh'
   clientID: 'Ov23liAH1r1yD3tBz8CB'
   clientSecret: '8fcc55d81d779b1249765016e17c273ac04515bb'
   repo: 'blog-comments'
