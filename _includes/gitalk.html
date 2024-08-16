@@ -9,7 +9,7 @@
     admin: ['{{ site.gitalk.admin }}'], // 确保 admin 是一个数组
     id: '{{ page.path }}', // 使用页面路径作为评论 ID，确保唯一性
     distractionFreeMode: {{ site.gitalk.distractionFreeMode | default: false }}, // 启用无干扰模式
-  language: '{{ site.gitalk.language | default: "en" }}' // 设置语言，如果未配置则使用默认的英语
+    language: '{{ site.gitalk.language | default: "zh" }}' // 设置语言，如果未配置则使用默认的
   });
 
   gitalk.render('gitalk-container');
