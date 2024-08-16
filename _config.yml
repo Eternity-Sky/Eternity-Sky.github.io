@@ -27,7 +27,7 @@ exclude:
   - scripts/
   - Eternity-Sky.gemspec
 
-# Optimize Jekyl SEO Tag
+# Optimize Jekyll SEO Tag
 twitter:
   username: Eternity-Sky
   card: summary
@@ -46,7 +46,7 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
+# google_analytics: G-M0PKVM9V3E
 
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
