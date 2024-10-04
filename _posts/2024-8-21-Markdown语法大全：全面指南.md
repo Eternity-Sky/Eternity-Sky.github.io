@@ -3,7 +3,7 @@ layout: post
 title: Markdown语法大全：全面指南
 date: 2024-8-21 21:52:32 +0800
 last_modified_at: 2024-8-21 21:52:32 +0800
-tags: [github, markdown, blog]
+tags: [github, markdown, 博客]
 toc:  true
 ---
 # Markdown 语法大全：全面指南

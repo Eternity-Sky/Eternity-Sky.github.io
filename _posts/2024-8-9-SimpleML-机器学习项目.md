@@ -3,7 +3,7 @@ layout: post
 title: SimpleML-机器学习项目
 date: 2024-8-9 13:59:32 +0800
 last_modified_at: 2024-8-9 13:59:32 +0800
-tags: [Github, Gitalk, Blog]
+tags: [Github, Gitalk, 博客]
 toc:  true
 ---
 # 推荐开源机器学习项目：SimpleML
