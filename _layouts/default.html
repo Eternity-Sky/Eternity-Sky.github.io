@@ -50,5 +50,19 @@
 {%- endif -%}
 <!-- End Google Analytics -->
 
+<footer>
+  <div id="footer-text">本站以安全运行<span id="current-time"></span></div>
+</footer>
+
+<script>
+  function updateTime() {
+    const now = new Date();
+    const formattedTime = now.toLocaleString('zh-CN', { hour12: false });
+    document.getElementById('current-time').innerText = formattedTime;
+  }
+  setInterval(updateTime, 1000);
+  updateTime(); // 初始化时间
+</script>
+
 </body>
 </html>
