@@ -19,4 +19,8 @@
 
 希望你能在这里找到灵感和有价值的内容！请随时留言或联系我，分享你的想法和反馈。
 
+![我的 GitHub 数据](https://stats.justsong.cn/api/github?username=Eternity-Sky)
+
+- 🍖邮箱：samsayamy@outlook.com
+
 [eternity-sky]
