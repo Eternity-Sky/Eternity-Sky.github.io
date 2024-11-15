@@ -60,7 +60,7 @@ CSP-J（Certified Software Professional - Junior），简单来说就是：
 1. **在线评测平台**：
    - [洛谷](https://www.luogu.com.cn/)（OI界的网瘾治疗中心）
    - [CodeForces](https://codeforces.com/)（不会俄语也能玩）
-   - [AtCoder](https://atcoder.jp/)（日��清新风，适合养生）
+   - [AtCoder](https://atcoder.jp/)（适合养生）
 
 2. **学习资源**：
    - [OI Wiki](https://oi-wiki.org/)（OI界的百科全书）
