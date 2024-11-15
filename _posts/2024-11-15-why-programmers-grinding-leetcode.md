@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Programmers Are Grinding LeetCode
+title: 为什么现在的程序员都在卷 LeetCode？
 date: 2024-11-15 20:44 +0800
 last_modified_at: 2024-11-15 20:44:00 +0800
 tags: [programmers, leetcode, job hunting]
