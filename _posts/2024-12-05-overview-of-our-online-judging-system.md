@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 我们的在线评测系统概述
+title: 欢迎支持ET题库
 date: 2024-12-05 20:44 +0800
 last_modified_at: 2024-12-05 20:44:00 +0800
 tags: [online-judging, programming, platform]
 toc: true
 ---
 
-# 我们的在线评测系统概述
+# ET题库概述
 
-欢迎来到我们创新的在线评测系统！这个平台旨在帮助用户提高编程能力，通过丰富的题库和用户友好的界面，用户可以在这里不断挑战自我，提升编程技能。访问我们的网站了解更多：[Eternity-Sky 在线评测系统](https://eternity-sky.github.io/OI/)。
+欢迎来到我们创新的在线评测系统！这个平台旨在帮助用户提高编程能力，通过丰富的题库和用户友好的界面，用户可以在这里不断挑战自我，提升编程技能。访问我们的网站了解更多：[ET题库](https://eternity-sky.github.io/OI/)。
 
 ## 网站特色
 
