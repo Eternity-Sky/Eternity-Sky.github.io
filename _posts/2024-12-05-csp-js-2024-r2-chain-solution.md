@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSP-J/S 2024 第二轮 入门级 接龙 题解
-date: 2024-12-05 20:44 +0800
+date: 2024-12-06 20:44 +0800
 last_modified_at: 2024-12-05 20:44:00 +0800
 tags: [cpp, csp-j, solution, dynamic-programming]
 toc: true
